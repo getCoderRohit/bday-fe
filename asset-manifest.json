@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bday-fe/static/css/main.06811097.chunk.css",
+    "main.js": "/bday-fe/static/js/main.1e2c2c86.chunk.js",
+    "main.js.map": "/bday-fe/static/js/main.1e2c2c86.chunk.js.map",
+    "runtime-main.js": "/bday-fe/static/js/runtime-main.d89f55d4.js",
+    "runtime-main.js.map": "/bday-fe/static/js/runtime-main.d89f55d4.js.map",
+    "static/js/2.119f2550.chunk.js": "/bday-fe/static/js/2.119f2550.chunk.js",
+    "static/js/2.119f2550.chunk.js.map": "/bday-fe/static/js/2.119f2550.chunk.js.map",
+    "static/js/3.20336d41.chunk.js": "/bday-fe/static/js/3.20336d41.chunk.js",
+    "static/js/3.20336d41.chunk.js.map": "/bday-fe/static/js/3.20336d41.chunk.js.map",
+    "index.html": "/bday-fe/index.html",
+    "static/css/main.06811097.chunk.css.map": "/bday-fe/static/css/main.06811097.chunk.css.map",
+    "static/js/2.119f2550.chunk.js.LICENSE.txt": "/bday-fe/static/js/2.119f2550.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d89f55d4.js",
+    "static/js/2.119f2550.chunk.js",
+    "static/css/main.06811097.chunk.css",
+    "static/js/main.1e2c2c86.chunk.js"
+  ]
+}
