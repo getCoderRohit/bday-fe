@@ -1,0 +1,14 @@
+@import "../../utils/color";
+@import "../../utils/variable";
+
+.wrapper{
+    display: flex;
+    background-color: $primary;
+    width: 100%;
+    height: $top-bar-height;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+}

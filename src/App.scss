@@ -1,0 +1,31 @@
+@import "./utils/color";
+@import "./utils/variable";
+
+.app {
+  height: 100vh;
+
+  .content {
+	width: 100%;
+	height: calc(100vh - $top-bar-height);
+	position: relative;
+	top: $top-bar-height;
+	scroll-snap-type: y mandatory;
+  }
+
+  > *{
+	  width: 100vw;
+	  height: calc(150vh - $top-bar-height);
+	  scroll-snap-align: start;
+  }
+}
+
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+	animation: App-logo-spin infinite 20s linear;
+  }
+} */

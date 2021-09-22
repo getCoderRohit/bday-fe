@@ -1,11 +1,17 @@
-import './App.css';
+import './App.scss';
+import TopNavBar from './components/nav_bar/TopNavBar';
+import Content from './components/content';
+import SmoothScroll from './utils/smooth_scroll/SmoothScroll';
 
 function App() {
 	return (
-		<div className="App">
-			<header className="App-header">
-				<p>Happy Birthday Bhondu!!</p>
-			</header>
+		<div className="app">
+			<TopNavBar />
+			<div className="content">
+				<SmoothScroll>
+					<Content />
+				</SmoothScroll>
+			</div>
 		</div>
 	);
 }
