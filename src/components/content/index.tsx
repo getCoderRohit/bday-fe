@@ -1,10 +1,11 @@
+import Wish from "./Wish/Wish"
 
 const Content = () => {
 	return (
 		<>
-			<div style={{width: '100%', height: '500px', backgroundColor: 'red'}}>PAGE 1</div>
-			<div style={{width: '100%', height: '500px', backgroundColor: 'green'}}>PAGE 2</div>
-			<div style={{width: '100%', height: '500px', backgroundColor: 'purple'}}>PAGE 3</div>
+			<Wish textColor="#cd122d" overlayColor="#fdc52c">
+				LOREM IPSUMMMM CALIGRIIII!!
+			</Wish>
 		</>
 	)
 }
