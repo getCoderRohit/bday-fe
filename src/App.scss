@@ -9,11 +9,12 @@
     height: calc(100vh - $top-bar-height);
     position: relative;
     top: $top-bar-height;
+    scroll-behavior: smooth;
     scroll-snap-type: y mandatory;
-	scrollbar-width: none;
-	&::-webkit-scrollbar{
-		display: none;
-	}
+    scrollbar-width: none;
+    &::-webkit-scrollbar{
+      display: none;
+    }
   }
 
   > * {

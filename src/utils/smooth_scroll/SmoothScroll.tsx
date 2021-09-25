@@ -33,10 +33,10 @@ const SmoothScroll: React.FC = ({ children }) => {
 	useEffect(
 		() => { 
 			const data = {
-				ease: 0.1,
+				ease: 0.05,
 				current: 0,
 				previous: 0,
-				rounded: 0,
+				rounded: 1,
 			};
 
 			const smoothScrollingHandler = () => {

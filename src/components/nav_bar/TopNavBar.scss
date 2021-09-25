@@ -3,12 +3,22 @@
 
 .wrapper{
     display: flex;
-    background-color: $primary;
+    background-color: $secondary;
     width: 100%;
     height: $top-bar-height;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+    flex-direction: row;
     position: fixed;
     top: 0;
     z-index: 2;
+}
+
+.date-text {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.slide-btn{
+    
 }

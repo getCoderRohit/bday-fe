@@ -1,6 +1,6 @@
 // @ts-nocheck
 
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useRef, useState } from 'react';
 import classes from  "./wish.module.scss"
 import "../content.scss"
 
