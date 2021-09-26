@@ -7,18 +7,30 @@
     width: 100%;
     height: $top-bar-height;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     flex-direction: row;
     position: fixed;
     top: 0;
     z-index: 2;
-}
 
-.date-text {
-    color: #ffffff;
-    font-weight: bold;
-}
+    .gif-container {
+        flex: 1;
 
-.slide-btn{
+        .gif {
+            height: $top-bar-height;
+        }
+    }
     
+    .date-text {
+        color: #ffffff;
+        font-weight: bold;
+        flex: 3;
+        text-align: center;
+    }
+    
+    .slide-btn{
+        flex: 1;
+        text-align: end;
+        color: #ffffff;
+    }
 }

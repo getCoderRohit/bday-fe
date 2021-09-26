@@ -7,11 +7,18 @@ function App() {
 	return (
 		<div className="app">
 			<TopNavBar />
+
 			<div className="content">
-				<SmoothScroll>
+				{/* <SmoothScroll> */}
 					<Content />
-				</SmoothScroll>
+				{/* </SmoothScroll> */}
 			</div>
+
+			{/* <div className="footer">
+				<p>XXXXX XXXXXXXX XXXXXX PVT LTD</p>
+				<p> - BHONDUOIT</p>
+			</div> */}
+			
 		</div>
 	);
 }
