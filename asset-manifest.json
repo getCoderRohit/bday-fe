@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bday-fe/static/css/main.f5e4b20d.chunk.css",
-    "main.js": "/bday-fe/static/js/main.50653b93.chunk.js",
-    "main.js.map": "/bday-fe/static/js/main.50653b93.chunk.js.map",
+    "main.css": "/bday-fe/static/css/main.6cca8409.chunk.css",
+    "main.js": "/bday-fe/static/js/main.39ed48c9.chunk.js",
+    "main.js.map": "/bday-fe/static/js/main.39ed48c9.chunk.js.map",
     "runtime-main.js": "/bday-fe/static/js/runtime-main.49e13e32.js",
     "runtime-main.js.map": "/bday-fe/static/js/runtime-main.49e13e32.js.map",
     "static/js/2.4cdd10d0.chunk.js": "/bday-fe/static/js/2.4cdd10d0.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.574ef351.chunk.js": "/bday-fe/static/js/3.574ef351.chunk.js",
     "static/js/3.574ef351.chunk.js.map": "/bday-fe/static/js/3.574ef351.chunk.js.map",
     "index.html": "/bday-fe/index.html",
-    "static/css/main.f5e4b20d.chunk.css.map": "/bday-fe/static/css/main.f5e4b20d.chunk.css.map",
+    "static/css/main.6cca8409.chunk.css.map": "/bday-fe/static/css/main.6cca8409.chunk.css.map",
     "static/js/2.4cdd10d0.chunk.js.LICENSE.txt": "/bday-fe/static/js/2.4cdd10d0.chunk.js.LICENSE.txt",
     "static/media/bracelet.e731b006.png": "/bday-fe/static/media/bracelet.e731b006.png",
     "static/media/heart.042b7bea.png": "/bday-fe/static/media/heart.042b7bea.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.49e13e32.js",
     "static/js/2.4cdd10d0.chunk.js",
-    "static/css/main.f5e4b20d.chunk.css",
-    "static/js/main.50653b93.chunk.js"
+    "static/css/main.6cca8409.chunk.css",
+    "static/js/main.39ed48c9.chunk.js"
   ]
 }
