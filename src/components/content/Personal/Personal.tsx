@@ -39,7 +39,7 @@ const Personal = () => {
 					To My Babe,
 				</h1>
 				<h2 className="details-text">
-					Happy Birthday meri pyar1i nyari acchi sacchi bacchi cute chweet masht amazing sensitive beautiful moonlight darling honey prinshess understanding dreamgirl my babe my love my bhonduuuuu 
+					Happy Birthday meri pyari nyari acchi sacchi bacchi cute chweet masht amazing sensitive beautiful moonlight darling honey prinshess understanding dreamgirl my babe my love my bhonduuuuu 
 					<p> &#128536; &#128525; &#128525;  &#128536; &#128536; &#128525; &#128525; </p>
 					{/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. */} 
 				</h2>
