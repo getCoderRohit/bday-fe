@@ -48,7 +48,7 @@ const Gift = () => {
 
         var templateParams = {
             subject: 'A Gift from Oit',
-            to_name: 'rohithegde444@gmail.com',
+            to_name: 'vishakhakumbhar97@gmail.com',
             from_name: 'rohithhdev444@gmail.com',
             message: 'You have selected ' + selectedGift.name.toUpperCase() + " as your gift. Expect it to be gited by Oit in few days ",
         };
@@ -67,7 +67,7 @@ const Gift = () => {
         <div id="gift" className="gift-container">
             {
                 isGiftSelected ?
-                    <div className="gift-title">YOU HAVE SELECTED YOUR GIFT AS {selectedGift.name.toUpperCase()}</div>
+                    <div className="gift-title">YOU HAVE SELECTED YOUR GIFT AS {selectedGift.name.toUpperCase()}. CHECK YOUR EMAIL!</div>
                     :
                     <>
                         <div className="gift-title">SELECT YOUR GIFT</div>
