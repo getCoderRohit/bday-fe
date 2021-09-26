@@ -1,7 +1,7 @@
 import './App.scss';
 import TopNavBar from './components/nav_bar/TopNavBar';
 import Content from './components/content';
-import SmoothScroll from './utils/smooth_scroll/SmoothScroll';
+// import SmoothScroll from './utils/smooth_scroll/SmoothScroll';
 
 function App() {
 	return (

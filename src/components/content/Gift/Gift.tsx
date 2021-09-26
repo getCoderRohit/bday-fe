@@ -5,6 +5,7 @@ import "./gift.scss"
 import watch from "../../../assets/watch.png"
 import bracelet from "../../../assets/bracelet.png"
 import pendant from "../../../assets/pendant.png"
+import heart from "../../../assets/heart.png"
 import { useState } from "react"
 
 import emailjs from "emailjs-com"
@@ -21,6 +22,7 @@ const giftsCatalog: GiftType[] = [
     { index: 0, name: 'watch', title: 'Watch', image: watch },
     { index: 1, name: 'pendant', title: 'Pendant', image: pendant },
     { index: 2, name: 'bracelet', title: 'Bracelet', image: bracelet },
+    { index: 3, name: 'kiss', title: 'Kiss', image: heart },
 ]
 
 const Gift = () => {

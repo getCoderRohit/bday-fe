@@ -9,7 +9,6 @@ import profile3 from "../../../assets/image3.jpg"
 import profile4 from "../../../assets/image4.jpg"
 
 const images = [profile1, profile2, profile3, profile4]
-const emojis = ["128536", "128525"]
 
 const Personal = () => {
 
