@@ -10,7 +10,7 @@ const TopNavBar = () => {
                 <img className="gif" src={wishGif} alt="..."></img>
             </div>
 
-            <h1 className="date-text"> 26th September, 1997 </h1>
+            <h1 className="date-text"> 27th September, 1997 </h1>
 
             <div className="slide-btn">
                 
